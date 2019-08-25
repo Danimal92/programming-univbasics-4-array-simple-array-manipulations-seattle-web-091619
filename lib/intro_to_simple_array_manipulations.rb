@@ -23,7 +23,6 @@ end
 def shift_with_args(array,num = 2)
   num.times do 
     array.shift()
-  
 end
 
 def using_concat(array1, array2)
